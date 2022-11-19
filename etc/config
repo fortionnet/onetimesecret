@@ -40,27 +40,7 @@
   :passphrase: CHANGEME
   :regex: \A[a-zA-Z0-9]{6}\z
 :locales:
-  - ar
-  - bg
-  - ca_ES
-  - cn
-  - cs
-  - da_DK
-  - de
-  - el_GR
   - en
-  - es
-  - fr
-  - fr_FR
-  - he
-  - it_IT
-  - nl
-  - pl
-  - pt_BR
-  - ru
-  - sl_SI
-  - sv_SE
-  - tr
 :unsupported_locales:
   - jp
 :stathat:
